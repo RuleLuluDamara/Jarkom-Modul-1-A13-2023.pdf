@@ -12,9 +12,8 @@ a. Berapa banyak paket yang tercapture dengan IP source maupun destination addre
 
 Masukkan Command Filter : ip.addr = 239.255.255.250 && udp.port == 3702
 
-![Command Filter No.1](URL_Gambar)
+![Command Filter No.1](Images/Soal 3/3-1.png)
 
 
 b. Protokol layer transport apa yang digunakan?
-
 
