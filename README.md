@@ -101,7 +101,7 @@ Jawaban : 74.53.140.153
 
 Jawaban : ip.src == 10.51.40.1 && ip.dst != 10.39.55.34
 
-![Nomer 9]()
+![Nomer 9](https://github.com/RuleLuluDamara/Jarkom-Modul-1-A13-2023.pdf/blob/main/Images/Soal%209/Jawaban%209.png)
 
 ## 10. Sebutkan kredensial yang benar ketika user mencoba login menggunakan Telnet
 
