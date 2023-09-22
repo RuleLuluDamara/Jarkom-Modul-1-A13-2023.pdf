@@ -23,11 +23,11 @@ Jawaban :
 
 ## 2. Sebutkan web server yang digunakan pada portal praktikum Jaringan Komputer!
 
-###Step 1
+### Step 1
 Masukkan Command Filter : tcp contains ”jaringan”
 ![Screenshot (1530)](https://github.com/RuleLuluDamara/Jarkom-Modul-1-A13-2023.pdf/assets/105763198/5da4ec51-1ccd-4464-bf16-ab9e1152d836)
 
-###Step 2
+### Step 2
 Kemudian lakukan : Follow TCP stream
  ![Screenshot (1531)](https://github.com/RuleLuluDamara/Jarkom-Modul-1-A13-2023.pdf/assets/105763198/354838ad-8618-45f4-a4e3-e900a6040dbb)
 
@@ -123,9 +123,19 @@ Jawaban : 74.53.140.153
 
 ## 6. Seorang anak bernama Udin Berteman dengan SlameT yang merupakan seorang penggemar film detektif. sebagai teman yang baik, Ia selalu mengajak slamet untuk bermain valoranT bersama. suatu malam, terjadi sebuah hal yang tak terdUga. ketika udin mereka membuka game tersebut, laptop udin menunjukkan sebuah field text dan Sebuah kode Invalid bertuliskan "server SOURCE ADDRESS 7812 is invalid". ketika ditelusuri di google, hasil pencarian hanya menampilkan a1 e5 u21. jiwa detektif slamet pun bergejolak. bantulah udin dan slamet untuk menemukan solusi kode error tersebut.
 
+## Step 1 
+Mencari IP Source Addres 7812 dan melakukan decrypt pada IP yang invalid 
+![Screenshot (1561)](https://github.com/RuleLuluDamara/Jarkom-Modul-1-A13-2023.pdf/assets/105763198/2d999143-86b1-4c06-bdee-74c44b086fee)
+
+![Screenshot (1562)](https://github.com/RuleLuluDamara/Jarkom-Modul-1-A13-2023.pdf/assets/105763198/89342ae5-8ab0-4c9a-82f8-68fee0060348)
+
+## Jawaban 
+
+![Screenshot 2023-09-22 164507](https://github.com/RuleLuluDamara/Jarkom-Modul-1-A13-2023.pdf/assets/105763198/16258119-712d-4409-a74c-24f5fffdcfc7)
+
 ## 7. Berapa jumlah packet yang menuju IP 184.87.193.88?
 
-###Step 1
+### Step 1
 Masukkan Command Filter : ip.src == 184.87.193.88, lalu hitung banyak nya row
 ![Screenshot (1529)](https://github.com/RuleLuluDamara/Jarkom-Modul-1-A13-2023.pdf/assets/105763198/157506a4-30dc-4c4d-83c1-1f34788242c6)
 
@@ -151,11 +161,11 @@ Jawaban : ip.src == 10.51.40.1 && ip.dst != 10.39.55.34
 
 ## 10. Sebutkan kredensial yang benar ketika user mencoba login menggunakan Telnet
 
-###Step 1
+### Step 1
 Masukkan Command Filter : telnet
 ![Screenshot (1540)](https://github.com/RuleLuluDamara/Jarkom-Modul-1-A13-2023.pdf/assets/105763198/ed2ab4bb-5251-43e4-8f86-a5844e1eb60a)
 
-###Step 2
+### Step 2
 Lalu follow TCP Stream pada dile Telnet nomor 236
 ![Screenshot (1535)](https://github.com/RuleLuluDamara/Jarkom-Modul-1-A13-2023.pdf/assets/105763198/b2142380-b9c9-49a7-9a39-d73e33bfb9ce)
 
@@ -167,7 +177,7 @@ Jawaban :
 ![Screenshot 2023-09-18 213421](https://github.com/RuleLuluDamara/Jarkom-Modul-1-A13-2023.pdf/assets/105763198/af53e57d-34ee-40c5-849e-ac94e08ba914)
 
 
-##Kendala
+## Kendala
 Koneksi yang tidak stabil jika menggunakan Vpn dengan server ITS membuat pengerjaan praktikum lebih lama
 
 
