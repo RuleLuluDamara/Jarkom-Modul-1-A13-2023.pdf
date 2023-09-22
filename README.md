@@ -38,9 +38,13 @@ Dari hasil filter terlihat bahwa protokol nya adalah UDP ( User Datagram Protoco
 
 Cari paket 130, lalu di bagian bawah buka 'User Datagram Protocol' disana akan ada nilai checksumnya
 
-![Nomer 4]
+![Nomer 4](https://github.com/RuleLuluDamara/Jarkom-Modul-1-A13-2023.pdf/blob/main/Images/Soal%204/4-1.png)
 
 Nilai Checksum : 0x18e5
+
+![Nomer 4](https://github.com/RuleLuluDamara/Jarkom-Modul-1-A13-2023.pdf/blob/main/Images/Soal%204/4-2.png)
+
+![Nomer 4](https://github.com/RuleLuluDamara/Jarkom-Modul-1-A13-2023.pdf/blob/main/Images/Soal%204/Jawaban 4.png)
 
 
 
