@@ -12,7 +12,7 @@ a. Berapa banyak paket yang tercapture dengan IP source maupun destination addre
 
 Masukkan Command Filter : ip.addr == 239.255.255.250 && udp.port == 3702
 
-![Command Filter No.1](https://github.com/RuleLuluDamara/Jarkom-Modul-1-A13-2023.pdf/blob/main/Images/Soal%203/Command.png))
+![Command Filter No.1](https://github.com/RuleLuluDamara/Jarkom-Modul-1-A13-2023.pdf/blob/main/Images/Soal%203/Command.png)
 
 Hasil Filter :
 
@@ -20,6 +20,21 @@ Hasil Filter :
 
 ![Command Filter No.1](https://github.com/RuleLuluDamara/Jarkom-Modul-1-A13-2023.pdf/blob/main/Images/Soal%203/3-2.png)
 
+Jawaban : 
+
+Ada 21 paket 
 
 b. Protokol layer transport apa yang digunakan?
+
+Jawaban : 
+
+Dari hasil filter terlihat bahwa protokol nya adalah UDP ( User Datagram Protocol )
+
+![Command Filter No.1](https://github.com/RuleLuluDamara/Jarkom-Modul-1-A13-2023.pdf/blob/main/Images/Soal%203/3-3.png)
+
+![Command Filter No.1](https://github.com/RuleLuluDamara/Jarkom-Modul-1-A13-2023.pdf/blob/main/Images/Soal%203/3-4.png)
+
+
+
+
 
