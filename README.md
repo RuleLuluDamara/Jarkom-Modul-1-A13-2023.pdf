@@ -44,7 +44,32 @@ Nilai Checksum : 0x18e5
 
 ![Nomer 4](https://github.com/RuleLuluDamara/Jarkom-Modul-1-A13-2023.pdf/blob/main/Images/Soal%204/4-2.png)
 
-![Nomer 4](https://github.com/RuleLuluDamara/Jarkom-Modul-1-A13-2023.pdf/blob/main/Images/Soal%204/Jawaban 4.png)
+![Nomer 4](https://github.com/RuleLuluDamara/Jarkom-Modul-1-A13-2023.pdf/blob/main/Images/Soal%204/Jawaban%204.png)
+
+## 5. Elshe menemukan suatu file packet capture yang menarik. Bantulah Elshe untuk menganalisis file packet capture tersebut.
+
+Filter yang terdapat "pass" dengan menggunakan : tcp contains "pass"
+
+![Nomer 5]()
+
+Klik kanan, lalu follow TCP Scream
+
+![Nomer 5]()
+
+Scroll kebawah sampai menemukan password baru, lalu decode dengan BASE64 
+
+![Nomer 5]()
+
+Hasilnya : 5implePas5word
+
+Lalu hasil decode tersebut dimasukkan untuk membuka file.txt
+
+![Nomer 5]()
+
+![Nomer 5]()
+
+
+
 
 
 
