@@ -58,7 +58,7 @@ b. Protokol layer transport apa yang digunakan?
 
 Jawaban : 
 
-Dari hasil filter terlihat bahwa protokol nya adalah UDP ( User Datagram Protocol )
+Port 3702 biasanya itu UDP, maka dari itu untuk memfilter soal sebelumnya menggunakan udp.port
 
 ![3B](https://github.com/RuleLuluDamara/Jarkom-Modul-1-A13-2023.pdf/blob/main/Images/Soal%203/3-3.png)
 
