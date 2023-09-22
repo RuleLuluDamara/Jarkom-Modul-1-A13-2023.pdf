@@ -50,24 +50,45 @@ Nilai Checksum : 0x18e5
 
 Filter yang terdapat "pass" dengan menggunakan : tcp contains "pass"
 
-![Nomer 5]()
+![Nomer 5](https://github.com/RuleLuluDamara/Jarkom-Modul-1-A13-2023.pdf/blob/main/Images/Soal%205/5-1.png)
+
+![Nomer 5](https://github.com/RuleLuluDamara/Jarkom-Modul-1-A13-2023.pdf/blob/main/Images/Soal%205/5-2.png)
 
 Klik kanan, lalu follow TCP Scream
 
-![Nomer 5]()
+![Nomer 5](https://github.com/RuleLuluDamara/Jarkom-Modul-1-A13-2023.pdf/blob/main/Images/Soal%205/5-3.png)
 
 Scroll kebawah sampai menemukan password baru, lalu decode dengan BASE64 
 
-![Nomer 5]()
+![Nomer 5](https://github.com/RuleLuluDamara/Jarkom-Modul-1-A13-2023.pdf/blob/main/Images/Soal%205/5-4.png)
 
 Hasilnya : 5implePas5word
 
 Lalu hasil decode tersebut dimasukkan untuk membuka file.txt
 
-![Nomer 5]()
+![Nomer 5](https://github.com/RuleLuluDamara/Jarkom-Modul-1-A13-2023.pdf/blob/main/Images/Soal%205/5-5.png)
 
-![Nomer 5]()
+![Nomer 5](https://github.com/RuleLuluDamara/Jarkom-Modul-1-A13-2023.pdf/blob/main/Images/Soal%205/5-6.png)
 
+a. Berapa banyak packet yang berhasil di capture dari file pcap tersebut?
+
+Jawaban : 60
+
+![Nomer 5](https://github.com/RuleLuluDamara/Jarkom-Modul-1-A13-2023.pdf/blob/main/Images/Soal%205/5-7.png)
+
+b. Port berapakah pada server yang digunakan untuk service SMTP?
+
+Jawaban : 25 
+
+![Nomer 5](https://github.com/RuleLuluDamara/Jarkom-Modul-1-A13-2023.pdf/blob/main/Images/Soal%205/5-8.png)
+
+c. Dari semua alamat IP yang tercapture, IP berapakah yang merupakan public IP?
+
+Jawaban : 74.53.140.153
+
+![Nomer 5](https://github.com/RuleLuluDamara/Jarkom-Modul-1-A13-2023.pdf/blob/main/Images/Soal%205/5-8.png)
+
+![Nomer 5](https://github.com/RuleLuluDamara/Jarkom-Modul-1-A13-2023.pdf/blob/main/Images/Soal%205/5-8.png)
 
 
 
